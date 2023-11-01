@@ -1,0 +1,1 @@
+/home/ilahazs/.bash_aliases
